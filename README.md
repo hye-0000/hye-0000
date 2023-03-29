@@ -1,14 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=It's%20me%20YOUNG&fontSize=90)
 
 <h1 align="center">I'm Hye Young</h1>
-<br>
 
-- 🐣 I graduated from **computer science**
-
-- 🌱 I’m currently learning **Java , Spring Boot , JPA , SQL**
-
-- 💻 I am studying to become **a backend developer**
-<br>
 <h3 align="center">📚 My Stack</h3>
 </p>
 <p align="center"> 
@@ -20,6 +13,15 @@
 <br>
 <br>
 <br>
+<br>
+
+- 🐣 I graduated from **computer science**
+
+- 🌱 I’m currently learning **Java , Spring Boot , JPA , SQL**
+
+- 💻 I am studying to become **a backend developer**
+<br>
+
 
 ### 💼 Experience
 - **(주)네이버시스템** -인턴 연구원 *(Sep 2022 ~ Dec 2022)*
