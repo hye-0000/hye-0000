@@ -15,6 +15,7 @@
 <br>
 <br>
 
+### 💼 Brief
 - 🐣 I graduated from **computer science**
 
 - 🌱 I’m currently learning **Java , Spring Boot , JPA , SQL**
