@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=It's%20me%20YOUNG&fontSize=90)
 
-<h1 align="center">I'm Hye Young</h1>
+<h1 align="">I'm Hye Young</h1>
 
-<h3 align="center">📚 My Stack</h3>
+<h3 align="">📚 My Stack</h3>
 </p>
-<p align="center"> 
+<p align=""> 
 <img src="https://img.shields.io/badge/JAVA-E97627?style=flat&logo=IntelliJ%20IDEA&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### 💼 Brief
+### 💁🏻‍♀️ Brief
 - 🐣 I graduated from **computer science**
 
 - 🌱 I’m currently learning **Java , Spring Boot , JPA , SQL**
