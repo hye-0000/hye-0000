@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=It's%20me%20YOUNG&fontSize=90)
 
-<h1 align="center">Hi👋, I'm Hye Young</h1>
+<h1 align="center">I'm Hye Young</h1>
 <br>
 
 - 🐣 I graduated from **computer science**
